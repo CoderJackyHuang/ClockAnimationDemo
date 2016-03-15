@@ -1,0 +1,2 @@
+# ClockAnimationDemo
+学习通过定时器和core animation来实现时钟动画
